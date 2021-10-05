@@ -1,0 +1,67 @@
+.titleone {
+  color: red;
+  font-size: 50px;
+}
+.titletwo {
+  color: blue;
+  font-size: 50px;
+}
+.textone {
+  color: blue;
+  font-size: 16px;
+  line-height: 5px;
+}
+.texttwo {
+  color: red;
+  font-size: 16px;
+  line-height: 5px;
+}
+.textthree {
+  color: blue;
+  font-size: 16px;
+  line-height: 5px;
+}
+.clickone {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: blue;
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+.clicktwo {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: green;
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+.boxone {
+  height: 100px;
+  width: 200px;
+  background-color: red;
+  border-radius: 15px;
+  margin: 15px;
+  display: inline-block;
+}
+.boxtwo {
+  height: 100px;
+  width: 250px;
+  background-color: black;
+  border-radius: 15px;
+  margin: 15px;
+  display: inline-block;
+}
+.boxthree {
+  height: 100px;
+  width: 300px;
+  background-color: blue;
+  border-radius: 15px;
+  margin: 15px;
+  display: inline-block;
+}
